@@ -11,3 +11,4 @@ Route::view('/about', 'about')->name('about');
 Route::view('/projects', 'projects')->name('projects');
 Route::view('/contact', 'contact')->name('contact');
 
+

@@ -1,6 +1,7 @@
 <header class="bg-primary dark:bg-gray-900 py-6 shadow-lg">
     <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center">
+            
             <div>
                 <a href="{{ url('/') }}" class="text-2xl font-bold text-white dark:text-white hover:text-secondary transition-colors">
                     {{ config('site.name') }}
@@ -28,6 +29,7 @@
                     Change Theme
                 </button>
             </div>
+
             
 
         </div>
