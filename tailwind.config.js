@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#3490dc', // Custom primary color
+        primary: '#6256ca', // Custom primary color
         secondary: '#ffed4a', // Custom secondary color
         accent: '#38b2ac', // Accent color for links
       },
